@@ -20,6 +20,9 @@ This tool was created to tackle the challenge of organizing a massive online dum
 - Start the program and specify the directory you want to monitor.
 - The program will begin sorting files based on their names, creating subfolders where appropriate.
 - The sorting process will continue as long as the program is running, automatically handling new files as they are added.
+- use this to run the jar files :
+  - java -jar Better_sorter.jar
+
 
 ## Contribution
 
